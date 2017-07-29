@@ -44,6 +44,7 @@
 
 int main() 
 {
+    //wangbo20170729
   //Initialize the platform.
   platformInit();
 
